@@ -1,11 +1,22 @@
-# NM_MALAVIKA.A_FRIDAY-BATCH_FSWD_PROJECT
+# NM_FRIDAYBATCH_FSWD_PROJECT
 
-Name : Malavika A
 
-Id : au960221104070
+Project implemented by: 
 
-College Name : Arunachala College of Engineering for Women
 
-Username : Malavika
+Name:
 
-Password : malavika1024
+
+ID:
+
+
+College name:
+
+
+Login credentials: 
+
+username: root
+
+
+Password: root
+
